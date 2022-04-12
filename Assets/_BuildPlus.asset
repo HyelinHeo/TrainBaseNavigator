@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a43cedfec2e042dba78bb08974a8ab9, type: 3}
+  m_Name: _BuildPlus
+  m_EditorClassIdentifier: 
+  build:
+    xmlVersion: 0
+    versions:
+    - major: 0
+      minor: 0
+      build: 3
+      revision: 
+      dateString: 2020.11.28.1919
+      notes:
+      - category: 6
+        description: "ui on/off \uCD94\uAC00"
+    - major: 0
+      minor: 0
+      build: 2
+      revision: 
+      dateString: 2020.10.28.2001
+      notes:
+      - category: 6
+        description: DEMO 2st Version
+    - major: 0
+      minor: 0
+      build: 1
+      revision: 
+      dateString: 2020.10.26.1704
+      notes:
+      - category: 6
+        description: DEMO 1st Version
+    releaseNotes: "RELEASE NOTES\r\n\r\nv0.0.3 (2020.11.28.1919)\r\n  GENERAL\r\n   
+      * ui on/off \uCD94\uAC00\r\n\r\nv0.0.2 (2020.10.28.2001)\r\n  GENERAL\r\n   
+      * DEMO 2st Version\r\n\r\nv0.0.1 (2020.10.26.1704)\r\n  GENERAL\r\n    * DEMO
+      1st Version\r\n\r\n"

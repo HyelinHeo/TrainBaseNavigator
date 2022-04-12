@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XMLSaveFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Objects>
+    <XMLMPXObject ID="0" Name="MPXPlane(Clone)" EditType="FOUNDATION" ObjType="PLANE">
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Position>
+      <Size>
+        <x>100</x>
+        <y>1</y>
+        <z>100</z>
+      </Size>
+      <Rotation>
+        <x>-0</x>
+        <y>-0</y>
+        <z>-0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>-0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </Rotation>
+      <Properties />
+    </XMLMPXObject>
+  </Objects>
+</XMLSaveFile>

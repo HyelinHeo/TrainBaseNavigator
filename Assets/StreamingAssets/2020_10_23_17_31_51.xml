@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XMLSaveFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Objects>
+    <XMLMPXObject ID="0" Name="MPXPlane(Clone)" EditType="FOUNDATION" FoundationType="NONE">
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Position>
+      <Size>
+        <x>100</x>
+        <y>1</y>
+        <z>100</z>
+      </Size>
+      <Rotation>
+        <x>-0</x>
+        <y>0</y>
+        <z>0</z>
+      </Rotation>
+      <Properties />
+      <PrefabName>MPXPlane</PrefabName>
+    </XMLMPXObject>
+    <XMLMPXObject ID="0" Name="MPXMesh(Clone)" EditType="FOUNDATION" FoundationType="Wall">
+      <Position>
+        <x>5.033557</x>
+        <y>0</y>
+        <z>2.38243246</z>
+      </Position>
+      <Size>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </Size>
+      <Rotation>
+        <x>-0</x>
+        <y>0</y>
+        <z>0</z>
+      </Rotation>
+      <Properties>
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Thickness" Value="0.78" Suffix="M" MinValue="0.01" MaxValue="10" />
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Height" Value="3.23" Suffix="M" MinValue="0.01" MaxValue="10" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosX" Value="-6.25838852" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosY" Value="0" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosZ" Value="2.38243246" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosX" Value="16.3255024" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosY" Value="0" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosZ" Value="2.38243246" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+      </Properties>
+      <PrefabName>MPXMesh</PrefabName>
+    </XMLMPXObject>
+    <XMLMPXObject ID="0" Name="MPXMesh(Clone)" EditType="FOUNDATION" FoundationType="Wall">
+      <Position>
+        <x>3.74160981</x>
+        <y>-0.00240433216</y>
+        <z>-2.416225</z>
+      </Position>
+      <Size>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </Size>
+      <Rotation>
+        <x>-2.66707048E-08</x>
+        <y>4.78113252E-05</y>
+        <z>5.58621736E-08</z>
+      </Rotation>
+      <Properties>
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Thickness" Value="0.78" Suffix="M" MinValue="0.01" MaxValue="10" />
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Height" Value="1.5" Suffix="M" MinValue="0.01" MaxValue="10" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosX" Value="13.8087225" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosY" Value="0" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosZ" Value="3.79182649" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosX" Value="-6.325503" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosY" Value="0" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosZ" Value="-8.624276" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+      </Properties>
+      <PrefabName>MPXMesh</PrefabName>
+    </XMLMPXObject>
+    <XMLMPXObject ID="0" Name="MPXMesh(Clone)" EditType="FOUNDATION" FoundationType="Wall">
+      <Position>
+        <x>-5.65436125</x>
+        <y>0</y>
+        <z>-1.76186252</z>
+      </Position>
+      <Size>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </Size>
+      <Rotation>
+        <x>-0</x>
+        <y>0</y>
+        <z>0</z>
+      </Rotation>
+      <Properties>
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Thickness" Value="0.78" Suffix="M" MinValue="0.01" MaxValue="10" />
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Height" Value="1.5" Suffix="M" MinValue="0.01" MaxValue="10" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosX" Value="-5.65436125" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosY" Value="0" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosZ" Value="5.066995" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosX" Value="-5.65436125" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosY" Value="0" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosZ" Value="-8.59072" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+      </Properties>
+      <PrefabName>MPXMesh</PrefabName>
+    </XMLMPXObject>
+    <XMLMPXObject ID="0" Name="MPXMesh(Clone)" EditType="FOUNDATION" FoundationType="Wall">
+      <Position>
+        <x>-2.130873</x>
+        <y>0</y>
+        <z>-1.14105892</z>
+      </Position>
+      <Size>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </Size>
+      <Rotation>
+        <x>-0</x>
+        <y>0</y>
+        <z>0</z>
+      </Rotation>
+      <Properties>
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Thickness" Value="0.78" Suffix="M" MinValue="0.01" MaxValue="10" />
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Height" Value="1.5" Suffix="M" MinValue="0.01" MaxValue="10" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosX" Value="-2.130873" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosY" Value="0" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosZ" Value="6.442832" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosX" Value="-2.130873" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosY" Value="0" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosZ" Value="-8.72495" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+      </Properties>
+      <PrefabName>MPXMesh</PrefabName>
+    </XMLMPXObject>
+    <XMLMPXObject ID="0" Name="MPXMesh(Clone)" EditType="FOUNDATION" FoundationType="Wall">
+      <Position>
+        <x>1.157719</x>
+        <y>0.00361990929</y>
+        <z>2.080418</z>
+      </Position>
+      <Size>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </Size>
+      <Rotation>
+        <x>4.44566217E-10</x>
+        <y>-2.04905718E-05</y>
+        <z>7.490859E-10</z>
+      </Rotation>
+      <Properties>
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Thickness" Value="0.78" Suffix="M" MinValue="0.01" MaxValue="10" />
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Height" Value="1.5" Suffix="M" MinValue="0.01" MaxValue="10" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosX" Value="-3.60738254" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosY" Value="0" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosZ" Value="-2.91958141" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosX" Value="5.92282057" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosY" Value="0" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosZ" Value="7.08041763" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+      </Properties>
+      <PrefabName>MPXMesh</PrefabName>
+    </XMLMPXObject>
+    <XMLMPXObject ID="0" Name="MPXMesh(Clone)" EditType="FOUNDATION" FoundationType="Wall">
+      <Position>
+        <x>3.4007597</x>
+        <y>0</y>
+        <z>-12.2708969</z>
+      </Position>
+      <Size>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </Size>
+      <Rotation>
+        <x>-0</x>
+        <y>0</y>
+        <z>0</z>
+      </Rotation>
+      <Properties>
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Thickness" Value="0.78" Suffix="M" MinValue="0.01" MaxValue="10" />
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Height" Value="1.5" Suffix="M" MinValue="0.01" MaxValue="10" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosX" Value="-15.3910637" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosY" Value="0" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="StartPosZ" Value="-12.2708969" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosX" Value="22.1925831" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosY" Value="0" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+        <MPXProperty ItemType="Slider" UseUI="false" Name="EndPosZ" Value="-12.2708969" MinValue="-3.40282347E+38" MaxValue="3.40282347E+38" />
+      </Properties>
+      <PrefabName>MPXMesh</PrefabName>
+    </XMLMPXObject>
+    <XMLMPXObject ID="0" Name="Train_01(Clone)" EditType="PLACEMENT" FoundationType="NONE">
+      <Position>
+        <x>-9.261718</x>
+        <y>0.0833333358</y>
+        <z>-0.0929687</z>
+      </Position>
+      <Size>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </Size>
+      <Rotation>
+        <x>-0</x>
+        <y>0</y>
+        <z>0</z>
+      </Rotation>
+      <Properties>
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Width" Value="19.5" Prefix="" Suffix="M" MinValue="18" MaxValue="22" />
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Height" Value="3" Prefix="" Suffix="M" MinValue="2.5" MaxValue="5" />
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Depth" Value="2.92" Prefix="" Suffix="M" MinValue="2.5" MaxValue="3.5" />
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Weight" Value="42" Prefix="" Suffix="T" MinValue="40" MaxValue="60" />
+      </Properties>
+      <PrefabName>Train_01</PrefabName>
+    </XMLMPXObject>
+    <XMLMPXObject ID="0" Name="Train_02(Clone)" EditType="PLACEMENT" FoundationType="NONE">
+      <Position>
+        <x>10.1174583</x>
+        <y>0.0833333358</y>
+        <z>-0.134347618</z>
+      </Position>
+      <Size>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </Size>
+      <Rotation>
+        <x>-0</x>
+        <y>0</y>
+        <z>0</z>
+      </Rotation>
+      <Properties>
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Width" Value="19.5" Prefix="" Suffix="M" MinValue="18" MaxValue="22" />
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Height" Value="3" Prefix="" Suffix="M" MinValue="2.5" MaxValue="5" />
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Depth" Value="2.92" Prefix="" Suffix="M" MinValue="2.5" MaxValue="3.5" />
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Weight" Value="42" Prefix="" Suffix="T" MinValue="40" MaxValue="60" />
+      </Properties>
+      <PrefabName>Train_02</PrefabName>
+    </XMLMPXObject>
+    <XMLMPXObject ID="0" Name="Cart(Clone)" EditType="PLACEMENT" FoundationType="NONE">
+      <Position>
+        <x>-12.1332254</x>
+        <y>0.0833333358</y>
+        <z>-9.640542</z>
+      </Position>
+      <Size>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </Size>
+      <Rotation>
+        <x>-0</x>
+        <y>172.220474</y>
+        <z>-0</z>
+      </Rotation>
+      <Properties>
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Speed" Value="3" Prefix="" Suffix="km/h" MinValue="1" MaxValue="10" />
+        <MPXProperty ItemType="Slider" UseUI="true" Name="Max load" Value="70" Prefix="" Suffix="KG" MinValue="50" MaxValue="200" />
+      </Properties>
+      <PrefabName>Cart</PrefabName>
+    </XMLMPXObject>
+    <XMLMPXObject ID="0" Name="WrenchBolt(Clone)" EditType="PLACEMENT" FoundationType="NONE">
+      <Position>
+        <x>-11.9880028</x>
+        <y>0.0833333358</y>
+        <z>-10.62994</z>
+      </Position>
+      <Size>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </Size>
+      <Rotation>
+        <x>-0</x>
+        <y>0</y>
+        <z>0</z>
+      </Rotation>
+      <Properties>
+        <MPXProperty ItemType="Slider" UseUI="true" Name="M" Value="0.16" Prefix="" Suffix="M" MinValue="0.01" MaxValue="0.3" />
+        <MPXProperty ItemType="Slider" UseUI="true" Name="L" Value="0.2" Prefix="" Suffix="M" MinValue="0.01" MaxValue="0.5" />
+      </Properties>
+      <PrefabName>WrenchBolt</PrefabName>
+    </XMLMPXObject>
+    <XMLMPXObject ID="0" Name="WrenchBolt(Clone)" EditType="PLACEMENT" FoundationType="NONE">
+      <Position>
+        <x>2.665422</x>
+        <y>0.0833333358</y>
+        <z>7.33590031</z>
+      </Position>
+      <Size>
+        <x>1</x>
+        <y>1</y>
+        <z>1</z>
+      </Size>
+      <Rotation>
+        <x>-0</x>
+        <y>0</y>
+        <z>0</z>
+      </Rotation>
+      <Properties>
+        <MPXProperty ItemType="Slider" UseUI="true" Name="M" Value="0.16" Prefix="" Suffix="M" MinValue="0.01" MaxValue="0.3" />
+        <MPXProperty ItemType="Slider" UseUI="true" Name="L" Value="0.2" Prefix="" Suffix="M" MinValue="0.01" MaxValue="0.5" />
+      </Properties>
+      <PrefabName>WrenchBolt</PrefabName>
+    </XMLMPXObject>
+  </Objects>
+</XMLSaveFile>
